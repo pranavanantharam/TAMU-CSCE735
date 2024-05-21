@@ -1,0 +1,11 @@
+Success: Matrix size = 1024, K' = 7, No. of threads = 1, Execution time = 1.450281 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 2, Execution time = 1.124970 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 4, Execution time = 0.522318 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 8, Execution time = 0.301303 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 16, Execution time = 0.182156 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 32, Execution time = 0.131591 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 64, Execution time = 0.182194 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 128, Execution time = 0.571147 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 256, Execution time = 2.830284 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 512, Execution time = 5.575996 seconds, Errors = 0 
+Success: Matrix size = 1024, K' = 7, No. of threads = 1024, Execution time = 7.931175 seconds, Errors = 0 

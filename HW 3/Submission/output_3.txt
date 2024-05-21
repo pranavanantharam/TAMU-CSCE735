@@ -1,0 +1,9 @@
+List Size = 268435456, Threads = 32, error = 0, time (sec) =  69.3812, qsort_time =  65.4311
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.2653, qsort_time =  64.9583
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.2308, qsort_time =  65.3229
+List Size = 268435456, Threads = 32, error = 0, time (sec) =  69.2167, qsort_time =  65.0814
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.2649, qsort_time =  64.8782
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.2393, qsort_time =  64.9248
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   4.0433, qsort_time =  64.8690
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.2403, qsort_time =  65.2588
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.2362, qsort_time =  64.8422

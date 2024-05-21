@@ -1,0 +1,10 @@
+[Proc: 0] number of processes = 2, initial local list size = 4, hypercube quicksort time = 0.284601
+[Proc: 0] Congratulations. The list has been sorted correctly.
+[Proc: 0] number of processes = 4, initial local list size = 4, hypercube quicksort time = 0.020124
+[Proc: 0] Congratulations. The list has been sorted correctly.
+[Proc: 0] number of processes = 8, initial local list size = 4, hypercube quicksort time = 0.007504
+[Proc: 0] Congratulations. The list has been sorted correctly.
+[Proc: 0] number of processes = 16, initial local list size = 4, hypercube quicksort time = 0.010673
+[Proc: 0] Congratulations. The list has been sorted correctly.
+[Proc: 0] number of processes = 16, initial local list size = 20480000, hypercube quicksort time = 3.107837
+[Proc: 0] Congratulations. The list has been sorted correctly.
